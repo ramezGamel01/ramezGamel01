@@ -24,7 +24,7 @@ I'm Ramez, a machine learning and software engineer in Egypt. I build PyTorch pi
 <a href="https://cinescope-gamma-ruby.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cinescope-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-cinescope-light.svg"><img alt="CineScope: movie discovery app with search, trailers and favorites" src="assets/card-cinescope-dark.svg" width="49%"></picture></a>
 <a href="https://ramezgamel01.github.io/rihla-egypt-travel/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rihla-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-rihla-light.svg"><img alt="Rihla: Egypt bus travel booking site" src="assets/card-rihla-dark.svg" width="49%"></picture></a>
 
-<sub>Code: [WorkLedger](https://github.com/ramezGamel01/workledger) · [CineScope](https://github.com/ramezGamel01/CINESCOPE) · [Rihla](https://github.com/ramezGamel01/rihla-egypt-travel) · [TaskFlow](https://github.com/ramezGamel01/Task-Flow). The fuzzing repos are private; the case study walks through them.</sub>
+<sub>Live demo: [WorkLedger](https://ramezgamel01.github.io/workledger/) · Code: [WorkLedger](https://github.com/ramezGamel01/workledger) · [CineScope](https://github.com/ramezGamel01/CINESCOPE) · [Rihla](https://github.com/ramezGamel01/rihla-egypt-travel) · [TaskFlow](https://github.com/ramezGamel01/Task-Flow). The fuzzing repos are private; the case study walks through them.</sub>
 
 ### Toolbox
 
